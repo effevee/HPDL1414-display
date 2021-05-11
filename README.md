@@ -1,5 +1,5 @@
 # HPDL1414-display
-####A 20 character display using HP DL1414 modules driven by 74HC595 shift registers
+#### A 20 character display using HP DL1414 modules driven by 74HC595 shift registers
 
 ![20 Character HP DL1414 Display](pcb/20_character_hp_dl1414_display.jpg)
 
